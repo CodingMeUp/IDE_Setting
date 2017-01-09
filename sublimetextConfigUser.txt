@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+		"Eslint",
+		"Git",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
+}
